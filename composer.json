@@ -1,0 +1,24 @@
+{
+  "name": "pprt/hyperf-jsonrpc-request",
+  "description": "hyperf客户端调用swoft-jsonrpc服务",
+  "require": {
+      "hyperf/consul": "~1.1.26"
+  }
+  "authors": [
+    {
+      "name": "cvl",
+      "email": "1225448773@qq.com"
+    }
+  ],
+  "autoload": {
+        "psr-4": {
+            "Clitoser\\Clitoser\\": "src/"
+        }
+  },
+  "minimum-stability": "stable",
+  "extra":{
+      "branch-alias":{
+      "dev-master":"1.0.x-dev"
+      }
+  }
+}
