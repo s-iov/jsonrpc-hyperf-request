@@ -3,7 +3,7 @@
   "description": "hyperf客户端调用swoft-jsonrpc服务",
   "require": {
       "hyperf/consul": "~1.1.26"
-  }
+  },
   "authors": [
     {
       "name": "cvl",
